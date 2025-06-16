@@ -5,7 +5,7 @@
 
 ## 개발환경
 
-![alt text](./docs/image.png)
+![KiCad Version](./docs/image.png)  
 KiCad 9.0.2  
 
 
