@@ -13,4 +13,5 @@ KiCad 9.0.2
 
 - [KiCad 공식 웹사이트](https://www.kicad.org/)
 - [KiCad 공식 문서](https://docs.kicad.org/)
+- [KiCad 공식 깃허브](https://github.com/KiCad/)
 - [전자부품 데이터시트 모음 (AllDataSheet)](https://www.alldatasheet.com/)
